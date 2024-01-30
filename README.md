@@ -1,17 +1,34 @@
-# FM Broadcast Landscape
+# The Radio Landscape Project
 
 ## Introduction
-The radio landscape is an idea I came up with on a road in august 2022. I wanted to understand, as I drove away from familiar cities, how the radio options were so vastly different over a few dozen miles of highway. The number of stations my radio picks up, the variety and genres of music available, the type of programming(News, sportstalk, talk, overtly political talk, religious, etc.) The number number of different channels used by the same station in any location(think boosters and translators*).
 
-The FCC FM Radio Query was used to collect the data and label commercial vs educational stations. There are many directions one can take a project based on this data and I encourage anyone to feel free to use the 'FM_stations_labeled.csv' I created in the first jupytper notebook to explore! 
+The Radio Landscape Project originated from a personal curiosity during a road trip in August 2022. As I traversed through various regions, I couldn't help but notice the stark differences in radio offerings within just a few dozen miles. This project aims to explore the multifaceted aspects of the radio landscape, including the number of stations available, the diversity of music genres, the types of programming offered (such as news, sports talk, political discourse, religious content), and the regional variations in listenership habits. By delving into these nuances, we hope to uncover insights into political, sociological, business, educational, and religious dynamics across different regions.
 
-As of 1/30 the project is no where near complete. A lot of this is stream of conciousness and will need to be cleaned up and updated as more progress is made!
+## Objectives and Questions
+
+- Investigate the regional variations in radio programming and listenership habits.
+- Analyze the impact of radio station diversity on societal and cultural dynamics.
+- Explore correlations between radio preferences and sociopolitical factors.
+- Examine the implications of commercial vs. educational radio stations on communities.
+
+## Data Collection
+
+The project utilizes data obtained from the FCC FM Radio Query tool, which provides detailed information about radio stations across the United States. After retrieving the raw data, efforts were made to clean and preprocess it, including addressing encoding issues and labeling stations as commercial or educational.
+
+## Dataset Availability
+
+The 'FM_stations_labeled.csv' dataset created from the FCC FM Radio Query is available for public use. Feel free to explore and analyze this dataset, and don't hesitate to contribute to the project by sharing your findings or suggestions.
+
+## Project Status
+
+As of January 30th, 2024, the project is still in its early stages and is a work in progress. Updates will be made to this README.md and the project repository as more progress is achieved.
+
 
 ## Features
 * **jupyter notebook 1** - Obtaining the data, label edu and commercial, N/S,D,M,S --->(latitude) and W/E,D,M,S --->(longtitude) decimal form for geodatframe later - save the master csv - NO DROPPING HERE What else can I do with the data?
 * **jupyter notebook 2** - EDA and Cleaning (NULL ISLAND), UNITS! For the different services - research more on what those mean. Do they need different considerations than others? DA, NA?, FM Status
 * **Jupyter notebook 3 (USE GOOGLE COLAB)** - Geopandas - geospatial mapping, projections, energy flux(research the physics), kde density plots, 
-* **App** - Interacting with the stations - search a location, hear a station? display stations? Listen to a station? - big owners (IHM ex) may have ways to listen to many stations. the process to find those can be automated????
+* **App** - Interacting with the stations - search a location, hear a station? display stations? Listen to a station? - big owners (IHM ex) may have ways to listen to many stations. the process to find those can be automated??
 * **Jupyter Notebook 4** - Modeling - Predict commercial or educational. For census cities, what is the general diversity in radio landscape between those two measures. Can I group the stations further using NLP by company owner? Station description scraped? EDU stations - [College, Religious?, News/Talk?, Music?, grab bag? ,.... ]. Commercial [ genres/music?, major owners and everybody else? News/Talk?,]
 
 
