@@ -25,9 +25,9 @@ Make a copy of Colab Notebooks
 This is a proof showing that my DMS ---> Decimal conversion worked. Without properly dealing with projections no reliable geospatial data can be used. 
 
 COMMERCIAL STATIONS (filtered to show more detail)
-![Screenshot 1](images\commercial_fm_stations.png)
+![Screenshot 1](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/commercial_fm_stations.png?raw=true)
 EDUCATIONAL STATIONS (filtered to show more detail)
-![Screenshot 2](images\educational_fm_stations.png)
+![Screenshot 2](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/educational_fm_stations.png?raw=true)
 [Add any relevant screenshots from the images folder]
 
 ## License
