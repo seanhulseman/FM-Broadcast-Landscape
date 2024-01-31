@@ -21,7 +21,7 @@ The 'FM_stations_labeled.csv' dataset created from the FCC FM Radio Query is ava
 
 ## Project Status
 
-As of January 30th, 2024, the project is still in its early stages and is a work in progress. Updates will be made to this README.md and the project repository as more progress is achieved.
+As of January 31st, 2024: Started outlining a project to leverage the FM Landscape for targeted political messaging in key voting areas (precinct, city, county), aiming to reach populations difficult or even resistant to engage through conventional methods. Project in early stages, with potential for promising application of data. Updates to README.md and project repository will be added here as progress continues.
 
 
 ## Features
