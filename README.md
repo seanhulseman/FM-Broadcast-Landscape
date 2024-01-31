@@ -48,9 +48,7 @@ EDUCATIONAL STATIONS (filtered to show more detail)
 [Add any relevant screenshots from the images folder]
 
 ## License
-MIT License
-
-Copyright (c) [year] [author]
+Created: 2024 Author: Sean Hulseman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -71,4 +69,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-You can visit my website showcases some of my projects [here](https://seanhulseman.github.io/), and my LinkedIn [here](https://www.linkedin.com/in/seanhulseman/)
+You can visit [this website](https://seanhulseman.github.io/) to find my contact info and some of view some of my work and view my LinkedIn [here](https://www.linkedin.com/in/seanhulseman/).
