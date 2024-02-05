@@ -20,6 +20,7 @@ The project utilizes data obtained from the FCC FM Radio Query tool, which provi
 The 'FM_stations_labeled.csv' dataset created from the FCC FM Radio Query is available for public use. Feel free to explore and analyze this dataset, and don't hesitate to contribute to the project by sharing your findings or suggestions.
 
 ## Project Status
+FEB 5 AM: I have realiable congressional map data and 'radio_landscape_3.ipynb' is a google colab notebook exploring geopandas. I took some test screen shots of geopandas working and exploring the geodaframe the data can be found here  ![found here](https://drive.google.com/drive/folders/1mAKcFCQt7bf6bRJsn8x-_Bcwo6ULf9pa?usp=drive_link) ![screen shot](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/congressional_district_gdf_georgia.png?raw=true) 
 
 As of January 31st, 2024: Started outlining a project to leverage the FM Landscape for targeted political messaging in key voting areas (precinct, city, county), aiming to reach populations difficult or even resistant to engage through conventional methods. Project in early stages, with potential for promising application of data. Updates to README.md and project repository will be added here as progress continues.
 
