@@ -20,7 +20,10 @@ The project utilizes data obtained from the FCC FM Radio Query tool, which provi
 The 'FM_stations_labeled.csv' dataset created from the FCC FM Radio Query is available for public use. Feel free to explore and analyze this dataset, and don't hesitate to contribute to the project by sharing your findings or suggestions.
 
 ## Project Status
-FEB 5 update: I now am able to create buffers of desired size around each district that crudely filter down the number of stations needed. Later I will calculate distance or maybe signal strength for each channel to explore the radio landscape of these example districts.
+
+FEB 5 PM: here is an preliminary example plot of a congressional district which contains all FM transmitters (hypothetically) ![screen shot](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/GA_01_station_map_ex.png?raw=true)
+
+FEB 5 AM update: I now am able to create buffers of desired size around each district that crudely filter down the number of stations needed. Later I will calculate distance or maybe signal strength for each channel to explore the radio landscape of these example districts.
 
 FEB 5 AM: I have realiable congressional map data and 'radio_landscape_3.ipynb' is a google colab notebook exploring geopandas. I took some test screen shots of geopandas working and exploring the geodaframe the data can be found here if you want to explore it for yourself: https://drive.google.com/drive/folders/1mAKcFCQt7bf6bRJsn8x-_Bcwo6ULf9pa?usp=sharing 
  ![screen shot](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/congressional_district_gdf_georgia.png?raw=true) 
