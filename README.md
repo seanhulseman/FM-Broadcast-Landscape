@@ -20,7 +20,8 @@ The project utilizes data obtained from the FCC FM Radio Query tool, which provi
 The 'FM_stations_labeled.csv' dataset created from the FCC FM Radio Query is available for public use. Feel free to explore and analyze this dataset, and don't hesitate to contribute to the project by sharing your findings or suggestions.
 
 ## Project Status
-
+FEB 6 AM: I mapped all the congressional districts and 'nearby' stations.  Later I plan to use distance, power, and basic height information to infer which stations are dominant for specific locations for each of the available channels. 
+![screen shot](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/all_GA.png?raw=true)
 FEB 5 PM: here is an preliminary example plot of a congressional district which contains all FM transmitters (hypothetically) 
 ![screen shot](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/GA_01_station_map_ex.png?raw=true)
 
