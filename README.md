@@ -5,6 +5,11 @@
 The Radio Landscape Project originated from a personal curiosity during a road trip in August 2022. As I traversed through various regions, I couldn't help but notice the stark differences in radio offerings within just a few dozen miles. This project aims to explore the multifaceted aspects of the radio landscape, including the number of stations available, the diversity of music genres, the types of programming offered (such as news, sports talk, political discourse, religious content), as well as the regional variations in listenership habits. By delving into these nuances, we hope to uncover insights into political, sociological, business, educational, and religious dynamics across different regions.
 
 ## Updates
+**FEB 15:** After a short break I decided my visuals would be better with some useful information about each transmitter. Next steps coming soon!
+![alt text](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/GA_01_some_details.png?raw=true)
+![alt text](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/GA_02_some_details.png?raw=true)
+![alt text](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/GA_03_some_details.png?raw=true)
+![alt text](https://github.com/seanhulseman/FM-Broadcast-Landscape/blob/main/images/GA_13_some_details.png?raw=true)
 
 **FEB 6:** Here is my pitch:
 
